@@ -28,7 +28,7 @@ Utilizo este GitHub para compartilhar meus **projetos, atividades acadêmicas e 
 
 <div align="center">
 
-**Python • HTML5 • CSS3**
+**Python • HTML5 • CSS3 • JavaScript • React.Js**
 
 </div>
 
@@ -39,6 +39,8 @@ Utilizo este GitHub para compartilhar meus **projetos, atividades acadêmicas e 
 - 🐍 **Python** — Lógica de programação e desenvolvimento
 - 🌐 **HTML5** — Estruturação de páginas web
 - 🎨 **CSS3** — Estilização e design de interfaces
+- 🟨 **JavaScript** — Programação e interatividade para aplicações web
+- ⚛️ **React.js** — Desenvolvimento de interfaces e aplicações web modernas
 - 💻 **Desenvolvimento de Sistemas**
 
 ---
