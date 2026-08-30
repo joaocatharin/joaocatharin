@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **curso técnico na área de Tecnologia da Informação**, apaixonado por tecnologia e em constante aprendizado.
+Sou estudante de **curso técnico na área de Tecnologia da Informação da ETEC Piracicaba**, apaixonado por tecnologia e em constante aprendizado.
 
-Atualmente estou desenvolvendo meus conhecimentos em **programação e desenvolvimento web**, principalmente utilizando **Python, HTML e CSS**.
+Atualmente estou desenvolvendo meus conhecimentos em **programação e desenvolvimento web**, principalmente utilizando **Python, HTML, CSS, JavaScript e React.JS**.
 
 Utilizo este GitHub para compartilhar meus **projetos, atividades acadêmicas e minha evolução na área de tecnologia**.
 
@@ -19,6 +19,10 @@ Utilizo este GitHub para compartilhar meus **projetos, atividades acadêmicas e 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" alt="React"/>
 
 </div>
 
